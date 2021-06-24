@@ -16,3 +16,6 @@ After you have pasted the folder inside the 'htdocs' folder present inside the X
 ## Source
 You can easily get the API which is used in this application for data of currencies from https://fixer.io/
 
+## Note
+This application does not support all currencies. It only supports Indian Rupee(INR), Australian Dollar(AUD), US Dollar(USD), Bulgarian Lev(BGN), Canadian Dollar(CAD), Swiss Franc(CHF), Danish Krone(DKK), Proud Sterling(GBP), Israeli New Shekel(ILS), Japanese Yen(JPY), Philippine Peso(PHP), Russian Ruble(RUB). 
+
