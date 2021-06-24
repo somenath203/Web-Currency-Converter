@@ -14,5 +14,5 @@ Copy the folder where the code of this currency converter is written and then pa
 After you have pasted the folder inside the 'htdocs' folder present inside the XAMPP folder of C drive, open any browser and write `http://localhost/currencyconverter/index.html` to start the website.
 
 ## Source
-You can easily get the API which is used in this application for currency conversion from https://fixer.io/
+You can easily get the API which is used in this application for data of currencies from https://fixer.io/
 
