@@ -11,7 +11,11 @@ After installing XAMPP, open the XAMPP Control Panel Software and start 'Apache'
 ### Step 3
 Copy the folder where the code of this currency converter is written and then paste it in `C:\xampp\htdocs`
 ### Step 4
-After you have pasted the folder inside the 'htdocs' folder present inside the XAMPP folder of C drive, open any browser and write `http://localhost/currencyconverter/index.html` to start the website.
+After you have pasted the ***Web-Currency-Converter*** inside the 'htdocs' folder present inside the XAMPP folder of C drive, open any browser and write :-
+```
+http://localhost/Web-Currency-Converter/index.html
+```
+This will start the website.
 
 ## Source
 You can easily get the API which is used in this application for data of currencies from https://fixer.io/
